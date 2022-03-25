@@ -1,0 +1,9 @@
+﻿town;12;18;deryashome;3;6;1
+town;5;7;sinasishome;4;8;1
+town;27;9;postoffice;4;6;1
+town;14;3;didemshome;3;6;1
+deryashome;3;7;town;12;19;3
+sinasishome;4;9;town;5;8;3
+postoffice;4;7;town;27;10;3
+postoffice;5;7;town;27;10;3
+didemshome;3;7;town;14;4;3

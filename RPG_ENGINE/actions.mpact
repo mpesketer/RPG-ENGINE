@@ -1,0 +1,32 @@
+﻿tarik_0|0|Tarık: İçeriye girebilmek için parolayı bilmelisiniz...|0|0||0|0| 
+tarik_1|4|Siz: Parola 6417 :)|2|0||-1|-1|tarik
+tarik_2|0|Tarık: Buyrun...|2|0||0|0| 
+alper_0|0|Alper: Siteye giriş için kart gerekli!|0|0||0|0| 
+alper_1|4|*Ziyaretçi giriş kartı gösterdiniz*|2|0||-1|-1|alper
+alper_2|0|Alper: Sitemize hoşgeldiniz!|2|0||0|0| 
+gokhan_0|0|Gökhan: Şinasi Bey'in izni olmadan bu kasabadan kimse ayrılamaz...|0|0||0|0| 
+gokhan_1|4|Gökhan: Artık gidebilirsiniz..|2|0||-1|-1|gokhan
+gokhan_2|0|Gökhan: ...|2|0||0|0| 
+derya_0|7|Derya: Bana bu deniz kenarında ne yaptığımı soracaksın? Benim gibi profesyonel bir hırsız için pekte iyi bi son değil...|0|1|onur|0|0| 
+derya_1|5|Siz: Bana yardımcı olabileceğini düşündüğüm bir konu var. Onur'un cep saati nerede biliyor musun?>>>Derya: Bu sokağın en başındaki evde dolapta.|2|0||0|0| 
+derya_2|0|Derya: Yalnız kalmam gerekiyor. İyi günler...|2|0||0|0| 
+didem_0|0|Didem: Kendimi iyi hissetmiyorum.Sahil sitesinde yaşıyorum. İlaçlarımı getirebilir misin?|0|0||0|0| 
+didem_1|6|Siz: İlaçlarınızı getirdim.>>>Didem: Çok teşekkür ederim. Kendimi daha iyi hissediyorum.|2|1|necmi|0|0| 
+didem_2|0|Didem: Biraz dinlenmem gerekiyor.|2|0||0|0| 
+didem_3|6|Siz: Şinasi Bey'in babanız olduğunu öğrendim.Onunla görüşebilmek için parolayı söyler misiniz?.>>>Didem: Parola 6417.>>>*Parola öğrenildi*|4|1|tarik|0|0| 
+didem_4|0|Didem: Biraz dinlenmem gerekiyor. İyi günler...|4|0||0|0| 
+onur_0|0|Onur: Selam>>>Siz: Selam|0|0||0|0| 
+onur_1|7|Onur: Merhaba ben sahil sitesinde oturuyorum. Cep saatimi kaybettim. Düşürdüm mü yoksa biri mi çaldı bilemiyorum...|0|1|derya|0|0| 
+onur_2|6|Siz: Saatinizi getirdim. Bana sahil sitesine girmem için yardımcı olabilir misiniz?>>>Onur: Bu ziyaretçi giriş kartı ile giriş yapabilirsin.>>>*Ziyaretçi kartı alındı*|3|1|alper|0|0| 
+onur_3|0|Onur: ...|2|0||0|0| 
+necmi_0|0|Necmi Dede: Merhaba evlat!>>>Siz: Siz burada mı çalışıyorsunuz?>>>Necmi Dede: Ben bu postane açıldığından beri burada çalışıyorum. Bu kasabadaki herkesi tanır bilirim.>>>Necmi Dede: Mesela Şinasi Bey bu kasabanın en soylu ve sözü geçen kişisidir.>>>Necmi Dede: Köprüde bulunan Gökhan Şinasi Bey'in en yakın adamıdır.|0|0||0|0| 
+necmi_1|6|Necmi Dede: Didem hakkında ne biliyorsunuz? Hani şu hasta olan kız!>>>Necmi Dede: Ayrı yaşadıkları için çok az kişi bilir ama Didem, Şinasi Bey'in kızıdır.|2|3|didem|0|0| 
+necmi_2|0|Necmi Dede: Şimdi işe dönmem lazım. Bugün kapalıyız sende gitsen iyi olur.|2|0||0|0| 
+sinasi_0|6|Şinasi: Neden burada olduğunu biliyor musun?>>>Şinasi: Öğreneceksin!>>>Şinasi: Ama şimdi diğer kasabaya geçmen gerekiyor.|1|1|gokhan|0|0| 
+sinasi_1|0|Şinasi: Sen hala burda mısın?|1|0||0|0| 
+saat|7|*SAAT ALINDI*|0|2|onur|0|0| 
+ilac|7|*İLAÇ ALINDI*|0|1|didem|0|0| 
+tabela1|0|ŞİNASİ BEY MALİKANESİ|0|0||0|0| 
+tabela2|0|SAHİL SİTESİ|0|0||0|0| 
+tabela3|0|TOLUCA PARKI|0|0||0|0| 
+kilitli|0|*KİLİTLİ*|0|0||0|0| 
